@@ -7,6 +7,8 @@
 
 I'm a digital automation enthusiest (Site Reliability Engineering/DevOps/Automation Engineering) and really enjoy creating automated solutions for challenging problems.  I work in Linux, Kubernetes, Python, Terraform, Ansible and use whatever tools available to create a reliable solution.  Sometimes there is no easy solution and I'll create something custom in Python which is also very fun and fulfilling to do.  While most of my work is contained in client private repos, it should be noted from my activity on this page that I am an active contributor in several different projects.  Because a lot of my work is in private repos, I am currently working on gathering [work samples](https://github.com/BrandonBoSmith/work_samples) to show so of the creative solutions I have built.
 
+I am also passionate about and have a lot of experience in building and leveraging observability and monitoring solutions.  I have performed a lot of monitoring setups and tuning over the years, leveraging the data from these platforms to identify issues proactively, identify capacity constraints, detect errors and ultimately ensure the network, server, application etc is reliable and ultimately helping the business succeed.
+
 📧 bo@bosmith.tech
 <!--
 **BrandonBoSmith/brandonbosmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
