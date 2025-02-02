@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 my name is Bo Smith
 
+[![linkedinprofile](https://img.shields.io/badge/LinkedIn-0064c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smithbrandonj/)
+
+🖖 About Me
+I'm a digital automation enthusiest and really enjoy creating automated solutions for challenging problems.  I work in Linux, Kubernetes, Python, Terraform, Ansible and use whatever tools available to create a propper solution.  Sometimes there is no easy solution and I'll create something custom in Python which is also very fun and fulfilling to do.  While most of my work is container in client private repos, it shoudl be noted from my activity on this page that I am an active contributor in several different projects.  Because a lot of my work is in private repos, I am currently working on gathering "work samples" to show so of the creative solutions I have built.
+
+📧 bo@bosmith.tech
 <!--
 **BrandonBoSmith/brandonbosmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
