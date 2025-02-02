@@ -1,3 +1,4 @@
+![header](https://i0.wp.com/www.globaltrademag.com/wp-content/uploads/2018/12/software.jpg?fit=965%2C393&ssl=1)
 ## Hi there 👋 my name is Bo Smith
 
 [![linkedinprofile](https://img.shields.io/badge/LinkedIn-0064c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smithbrandonj/)
